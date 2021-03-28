@@ -1,7 +1,7 @@
-This is a basic command line java program to organize and prioritize your tasks.
+This is a basic command line java program that allows the user to organize and prioritize tasks in a ToDo List.
 
-Features:
-  1.) View all todos
-  2.) Add todo
-  3.) Delete todo
+Features: <br />
+  1.) View all todos <br />
+  2.) Add todo <br />
+  3.) Delete todo <br />
   4.) Exit 
